@@ -13,7 +13,6 @@ def update():
     elif held_keys['escape']:
         quit()
 
-# sky()
 num = 10
 app = Ursina()
 
